@@ -1,0 +1,12 @@
+# Your own search: location, dealers and the cars you're looking at
+my-search/
+
+# Local database
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Python and OS clutter
+__pycache__/
+.pytest_cache/
+.DS_Store
