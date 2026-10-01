@@ -1,0 +1,14 @@
+{
+  "weights": {
+    "history": 18,
+    "service": 22,
+    "price": 15,
+    "mileage": 10,
+    "powertrain": 10,
+    "ownership": 5,
+    "condition": 10,
+    "fit": 7,
+    "dealer": 3
+  },
+  "critical_fields": ["drivetrain", "title", "title_status", "structural_damage", "flood", "odometer_conflict", "awd", "interior_color", "reverse_camera"]
+}
